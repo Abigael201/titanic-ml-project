@@ -21,4 +21,4 @@ To get started with this project, follow these steps:
 2. **Install dependencies:** `pip install -r requirements.txt`
 3. **Run the notebook:** Open the notebook in Google Colab to reproduce the analysis.
 
-## Contact For any questions, feel free to open an issue or contact me at [mogusuabigael@gmail.com].
+## For any questions, feel free to open an issue or contact me at [mogusuabigael@gmail.com].
