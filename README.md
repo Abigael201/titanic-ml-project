@@ -7,7 +7,7 @@ This repository contains my solution for the Titanic - Machine Learning from Dis
 - **Data Exploration:** Significant patterns were observed in survival rates based on age, sex, and passenger class.
 - **Data Preprocessing:** Missing values were handled, and categorical variables were encoded to prepare the data for modeling.
 - **Model Building:** Various models, including Logistic Regression and Random Forest, were trained and evaluated.
-- **Evaluation:** The best model achieved an accuracy of X% on the test set. Feature importance analysis highlighted the most impactful variables.
+- **Evaluation:** The best model achieved an accuracy of 1.0 while the one on this project achieved an accuracy of 0.65.Feature importance analysis highlighted the most impactful variables.
 - **Conclusion:** The project demonstrates the application of machine learning techniques to a real-world classification problem, with a focus on data exploration, preprocessing, model building, and evaluation.
 
 ## Repository Structure
