@@ -12,7 +12,7 @@ This repository contains my solution for the Titanic - Machine Learning from Dis
 
 ## Repository Structure
 - `data/`: Contains the dataset files (`train.csv` and `test.csv`).
-- `notebooks/`: Jupyter notebooks with detailed analysis and model building.
+- `notebooks/`: Google Colab notebook with detailed analysis and model building.
 - `README.md`: This file providing an overview of the project.
 
 ## Getting Started
